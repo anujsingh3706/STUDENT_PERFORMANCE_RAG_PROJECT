@@ -10,7 +10,7 @@ class GroqLLM:
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
-                {"role": "system", "content": "You are an AI assistant that analyzes student performance data and gives insights."},
+                {"role": "system", "content": "You are a helpful student performance assistant."},
                 {"role": "user", "content": prompt}
             ]
         )
