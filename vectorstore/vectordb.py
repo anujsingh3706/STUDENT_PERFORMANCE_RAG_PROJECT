@@ -15,3 +15,16 @@ def load_vector_store(embedding_model, path="faiss_index"):
         embedding_model,
         allow_dangerous_deserialization=True
     )
+
+# if __name__ == "__main__":
+#     from ingestion.loader import load_students
+#     from ingestion.splitter import split_documents
+#     from embeddings.embedder import get_embedding_model
+#     documents = load_students("C:/Users/asus/Downloads/ANUJ_Student_Perfromance_RAG_Project/data/students.json")
+#     split_docs = split_documents(documents)
+#     embedding_model = get_embedding_model()
+#     vectorstore = create_vector_store(split_docs, embedding_model)
+#     save_vector_store(vectorstore)
+#     loaded_vectorstore = load_vector_store(embedding_model)
+#     print(loaded_vectorstore)
+
