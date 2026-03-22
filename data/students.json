@@ -1,0 +1,4112 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Pooja Singh",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 73,
+            "Science": 62,
+            "English": 40,
+            "Computer": 88,
+            "Social Science": 82
+        },
+        "average_marks": 69.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S002",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 80,
+        "marks": {
+            "Math": 58,
+            "Science": 91,
+            "English": 81,
+            "Computer": 96,
+            "Social Science": 47
+        },
+        "average_marks": 74.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S003",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 99,
+        "marks": {
+            "Math": 55,
+            "Science": 40,
+            "English": 42,
+            "Computer": 53,
+            "Social Science": 70
+        },
+        "average_marks": 52.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S004",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 88,
+            "Science": 67,
+            "English": 98,
+            "Computer": 65,
+            "Social Science": 87
+        },
+        "average_marks": 81.0,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S005",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 56,
+            "Science": 75,
+            "English": 56,
+            "Computer": 89,
+            "Social Science": 78
+        },
+        "average_marks": 70.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S006",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 65,
+        "marks": {
+            "Math": 63,
+            "Science": 97,
+            "English": 86,
+            "Computer": 51,
+            "Social Science": 78
+        },
+        "average_marks": 75.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S007",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 96,
+        "marks": {
+            "Math": 72,
+            "Science": 83,
+            "English": 43,
+            "Computer": 40,
+            "Social Science": 82
+        },
+        "average_marks": 64.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S008",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 87,
+        "marks": {
+            "Math": 93,
+            "Science": 67,
+            "English": 78,
+            "Computer": 55,
+            "Social Science": 84
+        },
+        "average_marks": 75.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S009",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 59,
+            "Science": 80,
+            "English": 71,
+            "Computer": 52,
+            "Social Science": 97
+        },
+        "average_marks": 71.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S010",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 52,
+            "Science": 65,
+            "English": 43,
+            "Computer": 45,
+            "Social Science": 63
+        },
+        "average_marks": 53.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S011",
+        "name": "Rahul Sharma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 44,
+            "Science": 42,
+            "English": 68,
+            "Computer": 84,
+            "Social Science": 58
+        },
+        "average_marks": 59.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S012",
+        "name": "Arjun Yadav",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 91,
+            "Science": 93,
+            "English": 84,
+            "Computer": 50,
+            "Social Science": 88
+        },
+        "average_marks": 81.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S013",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 90,
+            "Science": 45,
+            "English": 71,
+            "Computer": 60,
+            "Social Science": 50
+        },
+        "average_marks": 63.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S014",
+        "name": "Amit Singh",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 86,
+        "marks": {
+            "Math": 54,
+            "Science": 53,
+            "English": 53,
+            "Computer": 87,
+            "Social Science": 77
+        },
+        "average_marks": 64.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S015",
+        "name": "Sneha Gupta",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 66,
+            "Science": 67,
+            "English": 85,
+            "Computer": 61,
+            "Social Science": 50
+        },
+        "average_marks": 65.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S016",
+        "name": "Priya Patel",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 99,
+        "marks": {
+            "Math": 97,
+            "Science": 83,
+            "English": 95,
+            "Computer": 78,
+            "Social Science": 56
+        },
+        "average_marks": 81.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S017",
+        "name": "Neha Joshi",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 72,
+            "Science": 59,
+            "English": 86,
+            "Computer": 81,
+            "Social Science": 75
+        },
+        "average_marks": 74.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S018",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 76,
+        "marks": {
+            "Math": 100,
+            "Science": 41,
+            "English": 80,
+            "Computer": 71,
+            "Social Science": 63
+        },
+        "average_marks": 71.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S019",
+        "name": "Vikas Mishra",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 49,
+            "Science": 63,
+            "English": 64,
+            "Computer": 59,
+            "Social Science": 89
+        },
+        "average_marks": 64.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S020",
+        "name": "Amit Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 97,
+            "Science": 43,
+            "English": 63,
+            "Computer": 61,
+            "Social Science": 61
+        },
+        "average_marks": 65.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S021",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 67,
+        "marks": {
+            "Math": 43,
+            "Science": 50,
+            "English": 77,
+            "Computer": 40,
+            "Social Science": 44
+        },
+        "average_marks": 50.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S022",
+        "name": "Amit Singh",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 90,
+            "Science": 51,
+            "English": 49,
+            "Computer": 45,
+            "Social Science": 69
+        },
+        "average_marks": 60.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S023",
+        "name": "Amit Singh",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 89,
+        "marks": {
+            "Math": 65,
+            "Science": 64,
+            "English": 52,
+            "Computer": 41,
+            "Social Science": 57
+        },
+        "average_marks": 55.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S024",
+        "name": "Sneha Gupta",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 44,
+            "Science": 86,
+            "English": 92,
+            "Computer": 58,
+            "Social Science": 65
+        },
+        "average_marks": 69.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S025",
+        "name": "Anjali Verma",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 88,
+            "Science": 83,
+            "English": 63,
+            "Computer": 41,
+            "Social Science": 91
+        },
+        "average_marks": 73.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S026",
+        "name": "Pooja Singh",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 93,
+        "marks": {
+            "Math": 64,
+            "Science": 78,
+            "English": 46,
+            "Computer": 68,
+            "Social Science": 100
+        },
+        "average_marks": 71.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S027",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 98,
+            "Science": 51,
+            "English": 88,
+            "Computer": 90,
+            "Social Science": 65
+        },
+        "average_marks": 78.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S028",
+        "name": "Vikas Mishra",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 76,
+        "marks": {
+            "Math": 69,
+            "Science": 80,
+            "English": 81,
+            "Computer": 100,
+            "Social Science": 95
+        },
+        "average_marks": 85.0,
+        "performance": "Excellent",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S029",
+        "name": "Rohit Kumar",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 96,
+        "marks": {
+            "Math": 48,
+            "Science": 72,
+            "English": 72,
+            "Computer": 79,
+            "Social Science": 48
+        },
+        "average_marks": 63.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S030",
+        "name": "Sneha Gupta",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 97,
+            "Science": 55,
+            "English": 98,
+            "Computer": 96,
+            "Social Science": 71
+        },
+        "average_marks": 83.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S031",
+        "name": "Neha Joshi",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 89,
+        "marks": {
+            "Math": 61,
+            "Science": 76,
+            "English": 67,
+            "Computer": 60,
+            "Social Science": 83
+        },
+        "average_marks": 69.4,
+        "performance": "Average",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S032",
+        "name": "Sneha Gupta",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 62,
+            "Science": 71,
+            "English": 45,
+            "Computer": 72,
+            "Social Science": 76
+        },
+        "average_marks": 65.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S033",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 54,
+            "Science": 95,
+            "English": 71,
+            "Computer": 93,
+            "Social Science": 100
+        },
+        "average_marks": 82.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S034",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 92,
+            "Science": 85,
+            "English": 43,
+            "Computer": 64,
+            "Social Science": 67
+        },
+        "average_marks": 70.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S035",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 83,
+            "Science": 48,
+            "English": 40,
+            "Computer": 95,
+            "Social Science": 67
+        },
+        "average_marks": 66.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S036",
+        "name": "Anjali Verma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 53,
+            "Science": 70,
+            "English": 70,
+            "Computer": 80,
+            "Social Science": 50
+        },
+        "average_marks": 64.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S037",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 91,
+            "Science": 98,
+            "English": 96,
+            "Computer": 72,
+            "Social Science": 46
+        },
+        "average_marks": 80.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S038",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 60,
+        "marks": {
+            "Math": 50,
+            "Science": 79,
+            "English": 95,
+            "Computer": 47,
+            "Social Science": 91
+        },
+        "average_marks": 72.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S039",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 76,
+        "marks": {
+            "Math": 50,
+            "Science": 82,
+            "English": 44,
+            "Computer": 70,
+            "Social Science": 85
+        },
+        "average_marks": 66.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S040",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 66,
+            "Science": 100,
+            "English": 40,
+            "Computer": 61,
+            "Social Science": 97
+        },
+        "average_marks": 72.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S041",
+        "name": "Amit Singh",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 50,
+            "Science": 83,
+            "English": 58,
+            "Computer": 43,
+            "Social Science": 52
+        },
+        "average_marks": 57.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S042",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 74,
+        "marks": {
+            "Math": 81,
+            "Science": 65,
+            "English": 100,
+            "Computer": 90,
+            "Social Science": 91
+        },
+        "average_marks": 85.4,
+        "performance": "Excellent",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S043",
+        "name": "Pooja Singh",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 86,
+            "Science": 46,
+            "English": 71,
+            "Computer": 73,
+            "Social Science": 84
+        },
+        "average_marks": 72.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S044",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 48,
+            "Science": 94,
+            "English": 87,
+            "Computer": 95,
+            "Social Science": 95
+        },
+        "average_marks": 83.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S045",
+        "name": "Neha Joshi",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 78,
+            "Science": 46,
+            "English": 74,
+            "Computer": 97,
+            "Social Science": 94
+        },
+        "average_marks": 77.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S046",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 72,
+        "marks": {
+            "Math": 69,
+            "Science": 86,
+            "English": 43,
+            "Computer": 42,
+            "Social Science": 58
+        },
+        "average_marks": 59.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S047",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 80,
+            "Science": 69,
+            "English": 81,
+            "Computer": 96,
+            "Social Science": 91
+        },
+        "average_marks": 83.4,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S048",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 97,
+            "Science": 96,
+            "English": 96,
+            "Computer": 72,
+            "Social Science": 71
+        },
+        "average_marks": 86.4,
+        "performance": "Excellent",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S049",
+        "name": "Arjun Yadav",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 66,
+        "marks": {
+            "Math": 66,
+            "Science": 60,
+            "English": 59,
+            "Computer": 92,
+            "Social Science": 41
+        },
+        "average_marks": 63.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S050",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 44,
+            "Science": 66,
+            "English": 91,
+            "Computer": 71,
+            "Social Science": 92
+        },
+        "average_marks": 72.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S051",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 96,
+        "marks": {
+            "Math": 62,
+            "Science": 52,
+            "English": 53,
+            "Computer": 51,
+            "Social Science": 65
+        },
+        "average_marks": 56.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S052",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 92,
+            "Science": 95,
+            "English": 93,
+            "Computer": 74,
+            "Social Science": 41
+        },
+        "average_marks": 79.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S053",
+        "name": "Priya Patel",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 100,
+        "marks": {
+            "Math": 84,
+            "Science": 65,
+            "English": 65,
+            "Computer": 75,
+            "Social Science": 96
+        },
+        "average_marks": 77.0,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S054",
+        "name": "Amit Singh",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 90,
+            "Science": 64,
+            "English": 57,
+            "Computer": 96,
+            "Social Science": 92
+        },
+        "average_marks": 79.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S055",
+        "name": "Sneha Gupta",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 53,
+            "Science": 63,
+            "English": 90,
+            "Computer": 97,
+            "Social Science": 58
+        },
+        "average_marks": 72.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S056",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 65,
+        "marks": {
+            "Math": 77,
+            "Science": 81,
+            "English": 60,
+            "Computer": 88,
+            "Social Science": 64
+        },
+        "average_marks": 74.0,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S057",
+        "name": "Anjali Verma",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 96,
+            "Science": 87,
+            "English": 89,
+            "Computer": 68,
+            "Social Science": 55
+        },
+        "average_marks": 79.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S058",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 70,
+        "marks": {
+            "Math": 96,
+            "Science": 75,
+            "English": 95,
+            "Computer": 60,
+            "Social Science": 73
+        },
+        "average_marks": 79.8,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S059",
+        "name": "Sneha Gupta",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 43,
+            "Science": 54,
+            "English": 86,
+            "Computer": 52,
+            "Social Science": 100
+        },
+        "average_marks": 67.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S060",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 61,
+            "Science": 84,
+            "English": 70,
+            "Computer": 57,
+            "Social Science": 57
+        },
+        "average_marks": 65.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S061",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 94,
+            "Science": 66,
+            "English": 45,
+            "Computer": 43,
+            "Social Science": 83
+        },
+        "average_marks": 66.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S062",
+        "name": "Amit Singh",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 68,
+        "marks": {
+            "Math": 59,
+            "Science": 77,
+            "English": 54,
+            "Computer": 53,
+            "Social Science": 40
+        },
+        "average_marks": 56.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S063",
+        "name": "Sneha Gupta",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 45,
+            "Science": 61,
+            "English": 82,
+            "Computer": 58,
+            "Social Science": 81
+        },
+        "average_marks": 65.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S064",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 47,
+            "Science": 61,
+            "English": 92,
+            "Computer": 84,
+            "Social Science": 87
+        },
+        "average_marks": 74.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S065",
+        "name": "Priya Patel",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 93,
+        "marks": {
+            "Math": 94,
+            "Science": 89,
+            "English": 52,
+            "Computer": 52,
+            "Social Science": 62
+        },
+        "average_marks": 69.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S066",
+        "name": "Anjali Verma",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 58,
+            "Science": 90,
+            "English": 76,
+            "Computer": 99,
+            "Social Science": 74
+        },
+        "average_marks": 79.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S067",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 55,
+            "Science": 45,
+            "English": 99,
+            "Computer": 75,
+            "Social Science": 78
+        },
+        "average_marks": 70.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S068",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 79,
+            "Science": 90,
+            "English": 93,
+            "Computer": 91,
+            "Social Science": 92
+        },
+        "average_marks": 89.0,
+        "performance": "Excellent",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S069",
+        "name": "Arjun Yadav",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 43,
+            "Science": 88,
+            "English": 93,
+            "Computer": 73,
+            "Social Science": 70
+        },
+        "average_marks": 73.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S070",
+        "name": "Sneha Gupta",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 84,
+            "Science": 45,
+            "English": 49,
+            "Computer": 93,
+            "Social Science": 91
+        },
+        "average_marks": 72.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S071",
+        "name": "Arjun Yadav",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 87,
+        "marks": {
+            "Math": 100,
+            "Science": 52,
+            "English": 57,
+            "Computer": 94,
+            "Social Science": 48
+        },
+        "average_marks": 70.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S072",
+        "name": "Vikas Mishra",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 99,
+        "marks": {
+            "Math": 40,
+            "Science": 92,
+            "English": 49,
+            "Computer": 79,
+            "Social Science": 94
+        },
+        "average_marks": 70.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S073",
+        "name": "Amit Singh",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 74,
+            "Science": 58,
+            "English": 63,
+            "Computer": 54,
+            "Social Science": 59
+        },
+        "average_marks": 61.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S074",
+        "name": "Anjali Verma",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 58,
+            "Science": 45,
+            "English": 83,
+            "Computer": 72,
+            "Social Science": 50
+        },
+        "average_marks": 61.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S075",
+        "name": "Priya Patel",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 61,
+        "marks": {
+            "Math": 98,
+            "Science": 50,
+            "English": 83,
+            "Computer": 87,
+            "Social Science": 97
+        },
+        "average_marks": 83.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S076",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 86,
+            "Science": 93,
+            "English": 82,
+            "Computer": 98,
+            "Social Science": 54
+        },
+        "average_marks": 82.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S077",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 57,
+            "Science": 53,
+            "English": 67,
+            "Computer": 71,
+            "Social Science": 58
+        },
+        "average_marks": 61.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S078",
+        "name": "Anjali Verma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 74,
+        "marks": {
+            "Math": 56,
+            "Science": 58,
+            "English": 88,
+            "Computer": 94,
+            "Social Science": 43
+        },
+        "average_marks": 67.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S079",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 77,
+        "marks": {
+            "Math": 54,
+            "Science": 61,
+            "English": 44,
+            "Computer": 72,
+            "Social Science": 50
+        },
+        "average_marks": 56.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S080",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 67,
+            "Science": 55,
+            "English": 41,
+            "Computer": 71,
+            "Social Science": 58
+        },
+        "average_marks": 58.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S081",
+        "name": "Arjun Yadav",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 64,
+            "Science": 67,
+            "English": 43,
+            "Computer": 72,
+            "Social Science": 49
+        },
+        "average_marks": 59.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S082",
+        "name": "Neha Joshi",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 93,
+            "Science": 41,
+            "English": 55,
+            "Computer": 79,
+            "Social Science": 52
+        },
+        "average_marks": 64.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S083",
+        "name": "Rohit Kumar",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 76,
+        "marks": {
+            "Math": 86,
+            "Science": 63,
+            "English": 59,
+            "Computer": 83,
+            "Social Science": 43
+        },
+        "average_marks": 66.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S084",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 97,
+            "Science": 80,
+            "English": 50,
+            "Computer": 67,
+            "Social Science": 70
+        },
+        "average_marks": 72.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S085",
+        "name": "Rohit Kumar",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 84,
+            "Science": 62,
+            "English": 53,
+            "Computer": 61,
+            "Social Science": 66
+        },
+        "average_marks": 65.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S086",
+        "name": "Pooja Singh",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 99,
+        "marks": {
+            "Math": 77,
+            "Science": 70,
+            "English": 44,
+            "Computer": 58,
+            "Social Science": 43
+        },
+        "average_marks": 58.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S087",
+        "name": "Neha Joshi",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 100,
+        "marks": {
+            "Math": 52,
+            "Science": 74,
+            "English": 99,
+            "Computer": 70,
+            "Social Science": 42
+        },
+        "average_marks": 67.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S088",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 72,
+        "marks": {
+            "Math": 81,
+            "Science": 45,
+            "English": 91,
+            "Computer": 54,
+            "Social Science": 89
+        },
+        "average_marks": 72.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S089",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 40,
+            "Science": 70,
+            "English": 55,
+            "Computer": 43,
+            "Social Science": 71
+        },
+        "average_marks": 55.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S090",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 81,
+            "Science": 51,
+            "English": 96,
+            "Computer": 99,
+            "Social Science": 95
+        },
+        "average_marks": 84.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S091",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 79,
+            "Science": 69,
+            "English": 90,
+            "Computer": 92,
+            "Social Science": 47
+        },
+        "average_marks": 75.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S092",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 82,
+        "marks": {
+            "Math": 41,
+            "Science": 99,
+            "English": 65,
+            "Computer": 69,
+            "Social Science": 71
+        },
+        "average_marks": 69.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S093",
+        "name": "Vikas Mishra",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 60,
+        "marks": {
+            "Math": 98,
+            "Science": 58,
+            "English": 55,
+            "Computer": 73,
+            "Social Science": 52
+        },
+        "average_marks": 67.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S094",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 67,
+        "marks": {
+            "Math": 63,
+            "Science": 85,
+            "English": 63,
+            "Computer": 88,
+            "Social Science": 90
+        },
+        "average_marks": 77.8,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S095",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 97,
+            "Science": 60,
+            "English": 41,
+            "Computer": 75,
+            "Social Science": 62
+        },
+        "average_marks": 67.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S096",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 87,
+        "marks": {
+            "Math": 80,
+            "Science": 67,
+            "English": 78,
+            "Computer": 51,
+            "Social Science": 60
+        },
+        "average_marks": 67.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S097",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 87,
+            "Science": 98,
+            "English": 59,
+            "Computer": 53,
+            "Social Science": 82
+        },
+        "average_marks": 75.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S098",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 44,
+            "Science": 74,
+            "English": 65,
+            "Computer": 70,
+            "Social Science": 42
+        },
+        "average_marks": 59.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S099",
+        "name": "Anjali Verma",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 95,
+            "Science": 61,
+            "English": 76,
+            "Computer": 98,
+            "Social Science": 42
+        },
+        "average_marks": 74.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S100",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 65,
+        "marks": {
+            "Math": 100,
+            "Science": 53,
+            "English": 53,
+            "Computer": 66,
+            "Social Science": 67
+        },
+        "average_marks": 67.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S101",
+        "name": "Pooja Singh",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 60,
+            "Science": 47,
+            "English": 47,
+            "Computer": 87,
+            "Social Science": 58
+        },
+        "average_marks": 59.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S102",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 80,
+        "marks": {
+            "Math": 72,
+            "Science": 77,
+            "English": 40,
+            "Computer": 98,
+            "Social Science": 42
+        },
+        "average_marks": 65.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S103",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 40,
+            "Science": 59,
+            "English": 44,
+            "Computer": 93,
+            "Social Science": 64
+        },
+        "average_marks": 60.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S104",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 83,
+        "marks": {
+            "Math": 43,
+            "Science": 51,
+            "English": 63,
+            "Computer": 49,
+            "Social Science": 91
+        },
+        "average_marks": 59.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S105",
+        "name": "Amit Singh",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 69,
+            "Science": 56,
+            "English": 71,
+            "Computer": 74,
+            "Social Science": 52
+        },
+        "average_marks": 64.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S106",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 66,
+            "Science": 100,
+            "English": 79,
+            "Computer": 84,
+            "Social Science": 64
+        },
+        "average_marks": 78.6,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S107",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 85,
+            "Science": 77,
+            "English": 59,
+            "Computer": 60,
+            "Social Science": 50
+        },
+        "average_marks": 66.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S108",
+        "name": "Amit Singh",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 94,
+            "Science": 66,
+            "English": 47,
+            "Computer": 53,
+            "Social Science": 70
+        },
+        "average_marks": 66.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S109",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 82,
+        "marks": {
+            "Math": 91,
+            "Science": 92,
+            "English": 60,
+            "Computer": 90,
+            "Social Science": 81
+        },
+        "average_marks": 82.8,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S110",
+        "name": "Anjali Verma",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 100,
+        "marks": {
+            "Math": 72,
+            "Science": 89,
+            "English": 91,
+            "Computer": 73,
+            "Social Science": 58
+        },
+        "average_marks": 76.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S111",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 96,
+        "marks": {
+            "Math": 81,
+            "Science": 67,
+            "English": 73,
+            "Computer": 56,
+            "Social Science": 87
+        },
+        "average_marks": 72.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S112",
+        "name": "Rohit Kumar",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 98,
+        "marks": {
+            "Math": 98,
+            "Science": 81,
+            "English": 56,
+            "Computer": 57,
+            "Social Science": 61
+        },
+        "average_marks": 70.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S113",
+        "name": "Arjun Yadav",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 47,
+            "Science": 90,
+            "English": 66,
+            "Computer": 50,
+            "Social Science": 92
+        },
+        "average_marks": 69.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S114",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 80,
+        "marks": {
+            "Math": 79,
+            "Science": 49,
+            "English": 57,
+            "Computer": 98,
+            "Social Science": 42
+        },
+        "average_marks": 65.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S115",
+        "name": "Rahul Sharma",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 70,
+        "marks": {
+            "Math": 55,
+            "Science": 43,
+            "English": 70,
+            "Computer": 96,
+            "Social Science": 94
+        },
+        "average_marks": 71.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S116",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 70,
+        "marks": {
+            "Math": 67,
+            "Science": 83,
+            "English": 60,
+            "Computer": 86,
+            "Social Science": 100
+        },
+        "average_marks": 79.2,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S117",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 82,
+            "Science": 88,
+            "English": 76,
+            "Computer": 54,
+            "Social Science": 93
+        },
+        "average_marks": 78.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S118",
+        "name": "Arjun Yadav",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 97,
+        "marks": {
+            "Math": 77,
+            "Science": 81,
+            "English": 66,
+            "Computer": 90,
+            "Social Science": 69
+        },
+        "average_marks": 76.6,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S119",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 59,
+            "Science": 56,
+            "English": 65,
+            "Computer": 89,
+            "Social Science": 77
+        },
+        "average_marks": 69.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S120",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 94,
+            "Science": 52,
+            "English": 86,
+            "Computer": 55,
+            "Social Science": 93
+        },
+        "average_marks": 76.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S121",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 74,
+            "Science": 80,
+            "English": 87,
+            "Computer": 62,
+            "Social Science": 62
+        },
+        "average_marks": 73.0,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S122",
+        "name": "Priya Patel",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 86,
+            "Science": 96,
+            "English": 46,
+            "Computer": 65,
+            "Social Science": 84
+        },
+        "average_marks": 75.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S123",
+        "name": "Priya Patel",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 67,
+            "Science": 62,
+            "English": 82,
+            "Computer": 86,
+            "Social Science": 70
+        },
+        "average_marks": 73.4,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S124",
+        "name": "Amit Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 80,
+        "marks": {
+            "Math": 77,
+            "Science": 72,
+            "English": 92,
+            "Computer": 50,
+            "Social Science": 70
+        },
+        "average_marks": 72.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S125",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 84,
+            "Science": 48,
+            "English": 64,
+            "Computer": 93,
+            "Social Science": 51
+        },
+        "average_marks": 68.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S126",
+        "name": "Arjun Yadav",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 99,
+            "Science": 89,
+            "English": 84,
+            "Computer": 65,
+            "Social Science": 64
+        },
+        "average_marks": 80.2,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S127",
+        "name": "Arjun Yadav",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 75,
+        "marks": {
+            "Math": 68,
+            "Science": 56,
+            "English": 60,
+            "Computer": 69,
+            "Social Science": 76
+        },
+        "average_marks": 65.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S128",
+        "name": "Priya Patel",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 86,
+            "Science": 80,
+            "English": 57,
+            "Computer": 61,
+            "Social Science": 78
+        },
+        "average_marks": 72.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S129",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 60,
+        "marks": {
+            "Math": 61,
+            "Science": 81,
+            "English": 59,
+            "Computer": 79,
+            "Social Science": 58
+        },
+        "average_marks": 67.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S130",
+        "name": "Arjun Yadav",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 40,
+            "Science": 45,
+            "English": 74,
+            "Computer": 58,
+            "Social Science": 93
+        },
+        "average_marks": 62.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S131",
+        "name": "Neha Joshi",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 72,
+        "marks": {
+            "Math": 79,
+            "Science": 77,
+            "English": 48,
+            "Computer": 85,
+            "Social Science": 86
+        },
+        "average_marks": 75.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S132",
+        "name": "Rohit Kumar",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 47,
+            "Science": 43,
+            "English": 47,
+            "Computer": 59,
+            "Social Science": 92
+        },
+        "average_marks": 57.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S133",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 91,
+            "Science": 67,
+            "English": 99,
+            "Computer": 52,
+            "Social Science": 86
+        },
+        "average_marks": 79.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S134",
+        "name": "Amit Singh",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 87,
+            "Science": 79,
+            "English": 97,
+            "Computer": 57,
+            "Social Science": 45
+        },
+        "average_marks": 73.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S135",
+        "name": "Rohit Kumar",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 57,
+            "Science": 66,
+            "English": 84,
+            "Computer": 48,
+            "Social Science": 43
+        },
+        "average_marks": 59.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S136",
+        "name": "Arjun Yadav",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 81,
+            "Science": 68,
+            "English": 99,
+            "Computer": 52,
+            "Social Science": 87
+        },
+        "average_marks": 77.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S137",
+        "name": "Arjun Yadav",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 82,
+        "marks": {
+            "Math": 76,
+            "Science": 73,
+            "English": 79,
+            "Computer": 87,
+            "Social Science": 92
+        },
+        "average_marks": 81.4,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S138",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 90,
+            "Science": 53,
+            "English": 86,
+            "Computer": 97,
+            "Social Science": 86
+        },
+        "average_marks": 82.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S139",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 54,
+            "Science": 63,
+            "English": 84,
+            "Computer": 44,
+            "Social Science": 56
+        },
+        "average_marks": 60.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S140",
+        "name": "Amit Singh",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 66,
+        "marks": {
+            "Math": 91,
+            "Science": 59,
+            "English": 77,
+            "Computer": 54,
+            "Social Science": 68
+        },
+        "average_marks": 69.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S141",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 60,
+        "marks": {
+            "Math": 62,
+            "Science": 94,
+            "English": 49,
+            "Computer": 51,
+            "Social Science": 42
+        },
+        "average_marks": 59.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S142",
+        "name": "Amit Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 51,
+            "Science": 53,
+            "English": 76,
+            "Computer": 78,
+            "Social Science": 62
+        },
+        "average_marks": 64.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S143",
+        "name": "Priya Patel",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 69,
+            "Science": 70,
+            "English": 84,
+            "Computer": 50,
+            "Social Science": 72
+        },
+        "average_marks": 69.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S144",
+        "name": "Amit Singh",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 64,
+        "marks": {
+            "Math": 98,
+            "Science": 95,
+            "English": 53,
+            "Computer": 62,
+            "Social Science": 45
+        },
+        "average_marks": 70.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S145",
+        "name": "Rohit Kumar",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 68,
+        "marks": {
+            "Math": 60,
+            "Science": 78,
+            "English": 96,
+            "Computer": 75,
+            "Social Science": 46
+        },
+        "average_marks": 71.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S146",
+        "name": "Neha Joshi",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 78,
+            "Science": 41,
+            "English": 67,
+            "Computer": 96,
+            "Social Science": 88
+        },
+        "average_marks": 74.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S147",
+        "name": "Pooja Singh",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 63,
+            "Science": 82,
+            "English": 62,
+            "Computer": 70,
+            "Social Science": 99
+        },
+        "average_marks": 75.2,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S148",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 82,
+            "Science": 71,
+            "English": 80,
+            "Computer": 67,
+            "Social Science": 83
+        },
+        "average_marks": 76.6,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S149",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 79,
+        "marks": {
+            "Math": 43,
+            "Science": 91,
+            "English": 66,
+            "Computer": 54,
+            "Social Science": 58
+        },
+        "average_marks": 62.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S150",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 48,
+            "Science": 74,
+            "English": 82,
+            "Computer": 49,
+            "Social Science": 80
+        },
+        "average_marks": 66.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S151",
+        "name": "Rahul Sharma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 88,
+        "marks": {
+            "Math": 72,
+            "Science": 60,
+            "English": 58,
+            "Computer": 51,
+            "Social Science": 51
+        },
+        "average_marks": 58.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S152",
+        "name": "Vikas Mishra",
+        "class": "11",
+        "section": "A",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 84,
+            "Science": 80,
+            "English": 66,
+            "Computer": 58,
+            "Social Science": 84
+        },
+        "average_marks": 74.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S153",
+        "name": "Rahul Sharma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 86,
+        "marks": {
+            "Math": 58,
+            "Science": 55,
+            "English": 46,
+            "Computer": 48,
+            "Social Science": 51
+        },
+        "average_marks": 51.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S154",
+        "name": "Rohit Kumar",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 93,
+        "marks": {
+            "Math": 75,
+            "Science": 49,
+            "English": 46,
+            "Computer": 97,
+            "Social Science": 98
+        },
+        "average_marks": 73.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S155",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 77,
+        "marks": {
+            "Math": 49,
+            "Science": 45,
+            "English": 60,
+            "Computer": 55,
+            "Social Science": 96
+        },
+        "average_marks": 61.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S156",
+        "name": "Vikas Mishra",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 77,
+        "marks": {
+            "Math": 79,
+            "Science": 90,
+            "English": 97,
+            "Computer": 94,
+            "Social Science": 48
+        },
+        "average_marks": 81.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S157",
+        "name": "Anjali Verma",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 94,
+        "marks": {
+            "Math": 97,
+            "Science": 61,
+            "English": 93,
+            "Computer": 80,
+            "Social Science": 46
+        },
+        "average_marks": 75.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S158",
+        "name": "Amit Singh",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 68,
+            "Science": 73,
+            "English": 70,
+            "Computer": 58,
+            "Social Science": 93
+        },
+        "average_marks": 72.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S159",
+        "name": "Priya Patel",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 73,
+            "Science": 72,
+            "English": 88,
+            "Computer": 91,
+            "Social Science": 78
+        },
+        "average_marks": 80.4,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S160",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 48,
+            "Science": 42,
+            "English": 70,
+            "Computer": 42,
+            "Social Science": 55
+        },
+        "average_marks": 51.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S161",
+        "name": "Pooja Singh",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 63,
+            "Science": 52,
+            "English": 53,
+            "Computer": 47,
+            "Social Science": 97
+        },
+        "average_marks": 62.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S162",
+        "name": "Sneha Gupta",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 98,
+        "marks": {
+            "Math": 71,
+            "Science": 85,
+            "English": 96,
+            "Computer": 77,
+            "Social Science": 68
+        },
+        "average_marks": 79.4,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S163",
+        "name": "Pooja Singh",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 41,
+            "Science": 84,
+            "English": 43,
+            "Computer": 53,
+            "Social Science": 56
+        },
+        "average_marks": 55.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S164",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "A",
+        "attendance_percentage": 78,
+        "marks": {
+            "Math": 56,
+            "Science": 69,
+            "English": 89,
+            "Computer": 84,
+            "Social Science": 49
+        },
+        "average_marks": 69.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S165",
+        "name": "Sneha Gupta",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 77,
+            "Science": 41,
+            "English": 81,
+            "Computer": 55,
+            "Social Science": 54
+        },
+        "average_marks": 61.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S166",
+        "name": "Anjali Verma",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 72,
+        "marks": {
+            "Math": 44,
+            "Science": 70,
+            "English": 59,
+            "Computer": 43,
+            "Social Science": 99
+        },
+        "average_marks": 63.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S167",
+        "name": "Amit Singh",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 86,
+            "Science": 48,
+            "English": 75,
+            "Computer": 100,
+            "Social Science": 98
+        },
+        "average_marks": 81.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S168",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 79,
+        "marks": {
+            "Math": 70,
+            "Science": 88,
+            "English": 43,
+            "Computer": 55,
+            "Social Science": 49
+        },
+        "average_marks": 61.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S169",
+        "name": "Rahul Sharma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 97,
+            "Science": 74,
+            "English": 96,
+            "Computer": 58,
+            "Social Science": 96
+        },
+        "average_marks": 84.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S170",
+        "name": "Sneha Gupta",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 82,
+        "marks": {
+            "Math": 83,
+            "Science": 41,
+            "English": 57,
+            "Computer": 85,
+            "Social Science": 95
+        },
+        "average_marks": 72.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S171",
+        "name": "Sneha Gupta",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 66,
+            "Science": 66,
+            "English": 72,
+            "Computer": 98,
+            "Social Science": 41
+        },
+        "average_marks": 68.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S172",
+        "name": "Arjun Yadav",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 72,
+        "marks": {
+            "Math": 48,
+            "Science": 61,
+            "English": 42,
+            "Computer": 47,
+            "Social Science": 54
+        },
+        "average_marks": 50.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S173",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 54,
+            "Science": 64,
+            "English": 40,
+            "Computer": 55,
+            "Social Science": 71
+        },
+        "average_marks": 56.8,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S174",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 93,
+        "marks": {
+            "Math": 53,
+            "Science": 58,
+            "English": 77,
+            "Computer": 59,
+            "Social Science": 44
+        },
+        "average_marks": 58.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S175",
+        "name": "Vikas Mishra",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 90,
+        "marks": {
+            "Math": 49,
+            "Science": 87,
+            "English": 64,
+            "Computer": 55,
+            "Social Science": 76
+        },
+        "average_marks": 66.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S176",
+        "name": "Sneha Gupta",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 97,
+        "marks": {
+            "Math": 70,
+            "Science": 76,
+            "English": 59,
+            "Computer": 94,
+            "Social Science": 80
+        },
+        "average_marks": 75.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S177",
+        "name": "Amit Singh",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 84,
+        "marks": {
+            "Math": 65,
+            "Science": 87,
+            "English": 65,
+            "Computer": 79,
+            "Social Science": 84
+        },
+        "average_marks": 76.0,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S178",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 78,
+            "Science": 41,
+            "English": 54,
+            "Computer": 65,
+            "Social Science": 79
+        },
+        "average_marks": 63.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S179",
+        "name": "Anjali Verma",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 74,
+        "marks": {
+            "Math": 43,
+            "Science": 45,
+            "English": 97,
+            "Computer": 69,
+            "Social Science": 61
+        },
+        "average_marks": 63.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S180",
+        "name": "Arjun Yadav",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 96,
+        "marks": {
+            "Math": 73,
+            "Science": 65,
+            "English": 64,
+            "Computer": 61,
+            "Social Science": 73
+        },
+        "average_marks": 67.2,
+        "performance": "Average",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S181",
+        "name": "Neha Joshi",
+        "class": "8",
+        "section": "B",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 77,
+            "Science": 82,
+            "English": 91,
+            "Computer": 73,
+            "Social Science": 45
+        },
+        "average_marks": 73.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S182",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "C",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 72,
+            "Science": 56,
+            "English": 82,
+            "Computer": 77,
+            "Social Science": 73
+        },
+        "average_marks": 72.0,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S183",
+        "name": "Amit Singh",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 62,
+        "marks": {
+            "Math": 98,
+            "Science": 52,
+            "English": 56,
+            "Computer": 92,
+            "Social Science": 80
+        },
+        "average_marks": 75.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S184",
+        "name": "Priya Patel",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 69,
+        "marks": {
+            "Math": 89,
+            "Science": 71,
+            "English": 91,
+            "Computer": 71,
+            "Social Science": 51
+        },
+        "average_marks": 74.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S185",
+        "name": "Sneha Gupta",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 81,
+        "marks": {
+            "Math": 92,
+            "Science": 62,
+            "English": 65,
+            "Computer": 73,
+            "Social Science": 81
+        },
+        "average_marks": 74.6,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S186",
+        "name": "Anjali Verma",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 92,
+        "marks": {
+            "Math": 67,
+            "Science": 42,
+            "English": 47,
+            "Computer": 48,
+            "Social Science": 94
+        },
+        "average_marks": 59.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S187",
+        "name": "Neha Joshi",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 91,
+        "marks": {
+            "Math": 79,
+            "Science": 90,
+            "English": 58,
+            "Computer": 56,
+            "Social Science": 53
+        },
+        "average_marks": 67.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S188",
+        "name": "Pooja Singh",
+        "class": "10",
+        "section": "A",
+        "attendance_percentage": 95,
+        "marks": {
+            "Math": 68,
+            "Science": 40,
+            "English": 49,
+            "Computer": 68,
+            "Social Science": 68
+        },
+        "average_marks": 58.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S189",
+        "name": "Pooja Singh",
+        "class": "12",
+        "section": "C",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 58,
+            "Science": 91,
+            "English": 57,
+            "Computer": 67,
+            "Social Science": 84
+        },
+        "average_marks": 71.4,
+        "performance": "Good",
+        "weak_subjects": [
+            "Math",
+            "English"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S190",
+        "name": "Vikas Mishra",
+        "class": "10",
+        "section": "B",
+        "attendance_percentage": 67,
+        "marks": {
+            "Math": 97,
+            "Science": 72,
+            "English": 69,
+            "Computer": 81,
+            "Social Science": 45
+        },
+        "average_marks": 72.8,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S191",
+        "name": "Rahul Sharma",
+        "class": "8",
+        "section": "C",
+        "attendance_percentage": 77,
+        "marks": {
+            "Math": 75,
+            "Science": 92,
+            "English": 50,
+            "Computer": 62,
+            "Social Science": 53
+        },
+        "average_marks": 66.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S192",
+        "name": "Amit Singh",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 85,
+        "marks": {
+            "Math": 99,
+            "Science": 59,
+            "English": 44,
+            "Computer": 59,
+            "Social Science": 74
+        },
+        "average_marks": 67.0,
+        "performance": "Average",
+        "weak_subjects": [
+            "Science",
+            "English",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S193",
+        "name": "Arjun Yadav",
+        "class": "11",
+        "section": "B",
+        "attendance_percentage": 63,
+        "marks": {
+            "Math": 76,
+            "Science": 100,
+            "English": 68,
+            "Computer": 66,
+            "Social Science": 61
+        },
+        "average_marks": 74.2,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S194",
+        "name": "Arjun Yadav",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 73,
+        "marks": {
+            "Math": 91,
+            "Science": 76,
+            "English": 72,
+            "Computer": 70,
+            "Social Science": 99
+        },
+        "average_marks": 81.6,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S195",
+        "name": "Neha Joshi",
+        "class": "8",
+        "section": "A",
+        "attendance_percentage": 77,
+        "marks": {
+            "Math": 46,
+            "Science": 85,
+            "English": 79,
+            "Computer": 45,
+            "Social Science": 72
+        },
+        "average_marks": 65.4,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S196",
+        "name": "Priya Patel",
+        "class": "10",
+        "section": "C",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 43,
+            "Science": 85,
+            "English": 50,
+            "Computer": 56,
+            "Social Science": 57
+        },
+        "average_marks": 58.2,
+        "performance": "Average",
+        "weak_subjects": [
+            "Math",
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Needs improvement"
+    },
+    {
+        "student_id": "S197",
+        "name": "Pooja Singh",
+        "class": "11",
+        "section": "C",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 70,
+            "Science": 98,
+            "English": 97,
+            "Computer": 80,
+            "Social Science": 76
+        },
+        "average_marks": 84.2,
+        "performance": "Good",
+        "weak_subjects": [],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S198",
+        "name": "Rahul Sharma",
+        "class": "12",
+        "section": "B",
+        "attendance_percentage": 71,
+        "marks": {
+            "Math": 62,
+            "Science": 93,
+            "English": 59,
+            "Computer": 55,
+            "Social Science": 44
+        },
+        "average_marks": 62.6,
+        "performance": "Average",
+        "weak_subjects": [
+            "English",
+            "Computer",
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S199",
+        "name": "Rahul Sharma",
+        "class": "9",
+        "section": "A",
+        "attendance_percentage": 60,
+        "marks": {
+            "Math": 71,
+            "Science": 93,
+            "English": 84,
+            "Computer": 90,
+            "Social Science": 43
+        },
+        "average_marks": 76.2,
+        "performance": "Good",
+        "weak_subjects": [
+            "Social Science"
+        ],
+        "remarks": "Doing well"
+    },
+    {
+        "student_id": "S200",
+        "name": "Priya Patel",
+        "class": "9",
+        "section": "B",
+        "attendance_percentage": 65,
+        "marks": {
+            "Math": 73,
+            "Science": 59,
+            "English": 73,
+            "Computer": 53,
+            "Social Science": 100
+        },
+        "average_marks": 71.6,
+        "performance": "Good",
+        "weak_subjects": [
+            "Science",
+            "Computer"
+        ],
+        "remarks": "Doing well"
+    }
+]
